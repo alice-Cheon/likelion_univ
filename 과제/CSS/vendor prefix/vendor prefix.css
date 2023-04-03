@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+td h1, td span {
+    color: white;
+}
+
+.container {
+    color: indianred;
+}
+
+td h5 {
+    color:darkkhaki;
+}
+
+table {
+    border-spacing: 50px;
+    border-collapse: separate;
+}
+
+.container02 {
+    color: white;
+    border-left-style: solid;
+}
+
+.whole {
+    position: relative;
+    width: 75%;
+    transform: translateY(7%);
+    margin: 0 auto;
+}
